@@ -1,0 +1,31 @@
+root = true
+
+[*]
+charset = utf-8
+# 使用空格缩进
+indent_style = space
+# 缩进2空格
+indent_size = 2
+tab_width = 2
+# 换行符
+end_of_line = lf
+# 文件末尾插入空行
+insert_final_newline = true
+# 删除换行符前面的空格
+trim_trailing_whitespace = true
+
+# js 压缩文件
+[**.min.js]
+indent_style = unset
+insert_final_newline = unset
+
+# json 文件
+[**.json]
+trim_trailing_whitespace = unset
+
+[*.md]
+insert_final_newline = false
+trim_trailing_whitespace = false
+
+[*.{bat,vbs,ps1}]
+end_of_line = CRLF

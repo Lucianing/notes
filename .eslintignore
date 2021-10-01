@@ -1,0 +1,17 @@
+**/*/public
+**/*/node_modules
+**/*/src/assets
+**/*/app.config.js
+**/*/dist
+**/*/build
+/types
+**/*/es
+**/*/lib
+**/*/gulpfile.js
+**/*/cdd-iconfont.js
+
+public
+lerna-debug.log
+remove.js
+scripts
+docs/libs
