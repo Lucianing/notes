@@ -1,0 +1,2 @@
+- 系统工具类
+  - [MacOS软件损坏](/issues/macos/installapp.md)

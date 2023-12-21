@@ -11,7 +11,8 @@
   ],
   "scripts": {
     "brootstrap": "lerna bootstrap",
-    "sort": "npx sort-package-json"
+    "sort": "npx sort-package-json",
+    "start": "docsify serve docs"
   },
   "devDependencies": {
     "@types/react": "^17.0.20",

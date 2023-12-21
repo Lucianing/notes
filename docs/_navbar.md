@@ -3,5 +3,5 @@
 - [算法](/algorithm/)
 - [数据库](/database/)
 - [运维](/devops/)
-- [计算机](/computer/)
+- [问题记录](/issues/macos/installapp)
 - [面试](/interview/algorithm/poker.md)
